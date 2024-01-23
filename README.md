@@ -32,7 +32,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Step 1](https://github.com/PhillisEssel/osticket-prereqs/assets/156061642/8893e501-f59f-46b4-a546-8661cdbbebd8)
+<p><a href="link.com">More</a></p>
+
 </p>
 <p>
 Create a Virtual Machine on Azure with a resource group, windows 10/11 & Virtual Network. Name the virtual machine vm-osticket along with creating a username and password to connect via Remote Desktop. Install/enable IIS in Windows. iis>World Wide Web Services>Application Development Features> enable CGI & common HTTP Features. IIS>Wed Management Tools>IIS Management Console. Next Install PHP Manager for IIS, Rewrite Module, in files create a folder under windows c name "PHP." Then install PHP7.3.8 and unzip the contents to the C:\PHP Folder.
