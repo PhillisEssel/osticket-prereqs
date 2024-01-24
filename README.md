@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-
+<h3>Phase One</h3>
 
 ![Step 1](https://github.com/PhillisEssel/osticket-prereqs/assets/156061642/8893e501-f59f-46b4-a546-8661cdbbebd8)
 <p><a href="https://imgur.com/a/MeTaVF4">More</a></p>
@@ -45,7 +45,7 @@ Create a Virtual Machine on Azure with a resource group, windows 10/11 & Virtual
 <br />
 
 <p>
-
+<h3>Phase Two</h3>
 
 ![Step 21](https://github.com/PhillisEssel/osticket-prereqs/assets/156061642/1038e7e3-d9d3-43e3-97ec-d9de81c74d7e)
 <p><a href="https://imgur.com/a/V0N6z7A">More</a></p>
@@ -56,7 +56,10 @@ Create a Virtual Machine on Azure with a resource group, windows 10/11 & Virtual
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Phase Three </h3>
+ 
+ ![Step 42](https://github.com/PhillisEssel/osticket-prereqs/assets/156061642/aed2bfbb-da2e-4e7f-abfa-b63349f7acab)
+
  <p><a href="https://imgur.com/a/rx8zIsi">More</a></p>
 </p>
 <p>
