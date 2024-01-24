@@ -45,7 +45,10 @@ Create a Virtual Machine on Azure with a resource group, windows 10/11 & Virtual
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+![Step 21](https://github.com/PhillisEssel/osticket-prereqs/assets/156061642/1038e7e3-d9d3-43e3-97ec-d9de81c74d7e)
+<p><a href="https://imgur.com/a/V0N6z7A">More</a></p>
 </p>
 <p>
  Next download and install VC redist.x86.exe. Download and Install My SQL 5.5.62, Press Typical setup, launch, standard configuration, and create a password under the username root. Open IIS as an administrator. Register PHP from within IIS, then reload IIS (stop/start). Download and Install osTicket v1.15.8. extract and put the "upload" folder to windows c>inetpub>wwwroot then change it "osticket." Reload IIS (stop/start) then go to Sites>Default>osTicket then to the right click "Browse *:80" You should see "Congratulations." osTicket should have been installed.
