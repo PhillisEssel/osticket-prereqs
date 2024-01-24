@@ -57,6 +57,7 @@ Create a Virtual Machine on Azure with a resource group, windows 10/11 & Virtual
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <p><a href="https://imgur.com/a/rx8zIsi">More</a></p>
 </p>
 <p>
 Go back to IIS>SITES>DEFAULT>OStICKET and double click PHP Manager and "click enable or disable an entension" and enable: php_imap.dll/php_intl.dll/php_opcache.dll. then go back to osTicket browser and refresh. Next go to files>c>inetpub>wwwwroot>osTicket>include>ost-sampleconfig.php and change the name to ost-config.php. Next assign permissions for ost-config.php (disable inheritance>remove all, New Permissions.everyone>all. Next go to osTicket, type default email then go back to installation files and install HeidiSQL. Create a new session root/your password. connect and create a database called "osTicket" then continue setting up osTicket in browser (mySQL Database:osTicket/mySQL Username:root/mySQL Password:your password) click "install."
